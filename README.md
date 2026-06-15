@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zhen
-- 👀 I’m a high energy physics theorist
-- 🌱 I’m currently learning "I don't know"
+- 👀 I’m a high-energy physics theorist
+- 🌱 I’m currently wondering "next discovery in elementary particle physics"
 - 💞️ I’m looking to collaborate on "fun stuff"
 - 📫 How to reach me "zliuphys at umn dot edu"
 
